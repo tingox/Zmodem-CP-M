@@ -45,7 +45,7 @@ struct {
 static unsigned
 getspeed(code)
 {
-	register n;
+	int n;
 
 	for (n=0; speeds[n].baudr; ++n)
 		if (speeds[n].speedcode == code)
