@@ -1,5 +1,3 @@
-2023-10-08 Testing git.
-
 # Zmodem-CP-M
 This repository is intended to foster a RetroBrewComputers community effort to port the original Zmodem source code for Unix to CP/M so everyone can use Zmodem for file transfers and modify source code as needed for their specific platforms.  Binary programs for Zmodem (sz & rz) are available but without source code available making modifications extremely difficult if not impossible.
 
